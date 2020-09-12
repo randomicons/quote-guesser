@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/quote-guesser/static/css/main.0741bc4a.chunk.css",
+    "main.js": "/quote-guesser/static/js/main.600ebc80.chunk.js",
+    "main.js.map": "/quote-guesser/static/js/main.600ebc80.chunk.js.map",
+    "runtime-main.js": "/quote-guesser/static/js/runtime-main.22a2e29a.js",
+    "runtime-main.js.map": "/quote-guesser/static/js/runtime-main.22a2e29a.js.map",
+    "static/js/2.06314353.chunk.js": "/quote-guesser/static/js/2.06314353.chunk.js",
+    "static/js/2.06314353.chunk.js.map": "/quote-guesser/static/js/2.06314353.chunk.js.map",
+    "index.html": "/quote-guesser/index.html",
+    "precache-manifest.9a0b0e491a381a8c3249dcd0e55d6a4d.js": "/quote-guesser/precache-manifest.9a0b0e491a381a8c3249dcd0e55d6a4d.js",
+    "service-worker.js": "/quote-guesser/service-worker.js",
+    "static/css/main.0741bc4a.chunk.css.map": "/quote-guesser/static/css/main.0741bc4a.chunk.css.map",
+    "static/js/2.06314353.chunk.js.LICENSE.txt": "/quote-guesser/static/js/2.06314353.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22a2e29a.js",
+    "static/js/2.06314353.chunk.js",
+    "static/css/main.0741bc4a.chunk.css",
+    "static/js/main.600ebc80.chunk.js"
+  ]
+}
