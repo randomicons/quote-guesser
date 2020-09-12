@@ -1,0 +1,46 @@
+.App {
+  width: 100%;
+  height: 100%;
+}
+
+.container {
+  text-align: center;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+p {
+  font-size: 24px;
+}
+
+button {
+  padding: 16px;
+  margin: 16px;
+  outline: none;
+  color: white;
+  border-radius: 4px;
+  background: #247BA0;
+  border: 0;
+  font-size: 1.2rem;
+}
+
+.numCorrect {
+  color: #247BA0;
+}
+
+.wrong {
+  &:before {
+    content: "\292B";
+  }
+}
+
+.correct {
+  background: #44cca9;
+  &:before {
+    content: "\2713";
+  }
+}
+
