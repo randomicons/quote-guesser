@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/quote-guesser/static/css/main.0741bc4a.chunk.css",
-    "main.js": "/quote-guesser/static/js/main.35b05c3d.chunk.js",
-    "main.js.map": "/quote-guesser/static/js/main.35b05c3d.chunk.js.map",
+    "main.js": "/quote-guesser/static/js/main.eadb4fb1.chunk.js",
+    "main.js.map": "/quote-guesser/static/js/main.eadb4fb1.chunk.js.map",
     "runtime-main.js": "/quote-guesser/static/js/runtime-main.22a2e29a.js",
     "runtime-main.js.map": "/quote-guesser/static/js/runtime-main.22a2e29a.js.map",
-    "static/js/2.ccf9abce.chunk.js": "/quote-guesser/static/js/2.ccf9abce.chunk.js",
-    "static/js/2.ccf9abce.chunk.js.map": "/quote-guesser/static/js/2.ccf9abce.chunk.js.map",
+    "static/js/2.f7fd217a.chunk.js": "/quote-guesser/static/js/2.f7fd217a.chunk.js",
+    "static/js/2.f7fd217a.chunk.js.map": "/quote-guesser/static/js/2.f7fd217a.chunk.js.map",
     "index.html": "/quote-guesser/index.html",
-    "precache-manifest.6b3522b995f63b4dba4d104cfd9ffb04.js": "/quote-guesser/precache-manifest.6b3522b995f63b4dba4d104cfd9ffb04.js",
+    "precache-manifest.c27bbb4df6c8944f57980be6f6ba7e9b.js": "/quote-guesser/precache-manifest.c27bbb4df6c8944f57980be6f6ba7e9b.js",
     "service-worker.js": "/quote-guesser/service-worker.js",
     "static/css/main.0741bc4a.chunk.css.map": "/quote-guesser/static/css/main.0741bc4a.chunk.css.map",
-    "static/js/2.ccf9abce.chunk.js.LICENSE.txt": "/quote-guesser/static/js/2.ccf9abce.chunk.js.LICENSE.txt"
+    "static/js/2.f7fd217a.chunk.js.LICENSE.txt": "/quote-guesser/static/js/2.f7fd217a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.22a2e29a.js",
-    "static/js/2.ccf9abce.chunk.js",
+    "static/js/2.f7fd217a.chunk.js",
     "static/css/main.0741bc4a.chunk.css",
-    "static/js/main.35b05c3d.chunk.js"
+    "static/js/main.eadb4fb1.chunk.js"
   ]
 }
