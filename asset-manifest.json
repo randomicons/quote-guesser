@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/quote-guesser/static/css/main.0741bc4a.chunk.css",
-    "main.js": "/quote-guesser/static/js/main.eadb4fb1.chunk.js",
-    "main.js.map": "/quote-guesser/static/js/main.eadb4fb1.chunk.js.map",
+    "main.js": "/quote-guesser/static/js/main.730c9c1e.chunk.js",
+    "main.js.map": "/quote-guesser/static/js/main.730c9c1e.chunk.js.map",
     "runtime-main.js": "/quote-guesser/static/js/runtime-main.22a2e29a.js",
     "runtime-main.js.map": "/quote-guesser/static/js/runtime-main.22a2e29a.js.map",
     "static/js/2.f7fd217a.chunk.js": "/quote-guesser/static/js/2.f7fd217a.chunk.js",
     "static/js/2.f7fd217a.chunk.js.map": "/quote-guesser/static/js/2.f7fd217a.chunk.js.map",
     "index.html": "/quote-guesser/index.html",
-    "precache-manifest.c27bbb4df6c8944f57980be6f6ba7e9b.js": "/quote-guesser/precache-manifest.c27bbb4df6c8944f57980be6f6ba7e9b.js",
+    "precache-manifest.25cfa84b3a3e794cf4f0a7a727f293d5.js": "/quote-guesser/precache-manifest.25cfa84b3a3e794cf4f0a7a727f293d5.js",
     "service-worker.js": "/quote-guesser/service-worker.js",
     "static/css/main.0741bc4a.chunk.css.map": "/quote-guesser/static/css/main.0741bc4a.chunk.css.map",
     "static/js/2.f7fd217a.chunk.js.LICENSE.txt": "/quote-guesser/static/js/2.f7fd217a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.22a2e29a.js",
     "static/js/2.f7fd217a.chunk.js",
     "static/css/main.0741bc4a.chunk.css",
-    "static/js/main.eadb4fb1.chunk.js"
+    "static/js/main.730c9c1e.chunk.js"
   ]
 }
